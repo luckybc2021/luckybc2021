@@ -16,6 +16,11 @@ I will try to publish the source code before December 20, 2024. Here are the pro
 
 ## Stay tuned for more updates!
 
+
+Check out my latest LinkedIn post [here](https://www.linkedin.com/embed/feed/update/urn:li:share:7270014564551815171). (Right-click and select "Open link in new tab" to view in a new tab.)
+
+
+
 <!--
 **luckybc2021/luckybc2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
