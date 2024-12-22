@@ -1,3 +1,12 @@
+# AI Era
+
+Databases and software started out as distinct fields at the beginning of programming and database management. In the current AI era, software developers will adapt to AIs changing the way we program and develop database applications. End users will be able to manage their own databases, choosing AI agents like Copilot to see and manage their data, or using paid/free software solutions. This means software developers will still have jobs, and users will have more control over their own databases. Software development jobs won't disappear; rather, we are transitioning from a quantity-based to a quality-based standard.
+
+More people will embrace AI agents like Copilot, giving them more rights to manage their own databases instead of handing them over to unknown entities. This shift will lead to more creative and higher-quality software applications. Low-paid, less-skilled jobs will decline, while those with creative talents will leverage AI to create new jobs suitable for various skill sets. You won't need to feel inadequate for not knowing how to program applications—AI agents are tools to enhance human capabilities, not replace them.
+
+The number of software developers worldwide is vast, but the availability of high-quality applications is diminishing. Embracing the AI era and changing the way we live and work will be essential. While AI can transform software development, the need for real, high-quality applications will always require skilled developers.
+
+
 # WZP (World Zero Project)
 ### Introduction
 Welcome to the World Zero Project (WZP). I've been tirelessly developing significant projects under the WZP umbrella. One of the reasons the source code hasn't been published or uploaded to GitHub yet is due to the frequent blueprint revisions that precede the programming stage. These revisions often result in substantial code changes.
