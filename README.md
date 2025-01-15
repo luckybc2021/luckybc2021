@@ -1,3 +1,8 @@
+# Future of Work: 39% Job Skills to Become Outdated by 2030
+
+I am not certain that AI and robots will replace humans entirely. However, I am confident that people worldwide should proactively learn and utilize AI and robotics to enhance and acquire new skills. Doing so will enable them to secure new jobs in the future.
+
+
 # AI Era
 
 Databases and software started out as distinct fields at the beginning of programming and database management. In the current AI era, software developers will adapt to AIs changing the way we program and develop database applications. End users will be able to manage their own databases, choosing AI agents like Copilot to see and manage their data, or using paid/free software solutions. This means software developers will still have jobs, and users will have more control over their own databases. Software development jobs won't disappear; rather, we are transitioning from a quantity-based to a quality-based standard.
