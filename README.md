@@ -1,3 +1,22 @@
+# AIs x Intelligent Human
+
+
+
+It's misguided to think that AIs, including Deep Seek, will replace software developers, especially the highly skilled ones. Nothing is free. Currently, AI companies have amassed vast amounts of data from around the world. For those unaware, AIs operate on patterns and selective algorithms to generate results ranging from the worst to the best, depending on how much you pay.
+
+
+
+Right now, AIs are affordable because they aim to push software developers out of the market, as hiring high-quality and intelligent IT/software developers is expensive. By diminishing the market, they allow less experienced developers and normal users to rely on AIs, leading to potential failure. Without sufficient knowledge and experience as a software developer, one cannot achieve much. Normal users and developers might think that AIs will make them millionaires, but the answer is absolutely no.
+
+
+
+As mentioned earlier, AIs have gathered information from around the world, especially from open-source projects. However, it's about a selective system of the best and worst projects. If you don't pay enough to get the best results and use the worst results in real life, it can lead to disastrous consequences. Instead of asking AIs for harmful advice, understand that poor results can worsen your life significantly.
+
+
+
+Remember, no money falls from the sky. Nothing is free.
+
+
 # Future of Work: 39% Job Skills to Become Outdated by 2030
 
 I am not certain that AI and robots will replace humans entirely. However, I am confident that people worldwide should proactively learn and utilize AI and robotics to enhance and acquire new skills. Doing so will enable them to secure new jobs in the future.
