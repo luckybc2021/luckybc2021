@@ -1,3 +1,22 @@
+# My Life in Vietnam: Struggles, Survival, and Seeking Justice
+
+
+If you are wondering why you don't see me uploading open-source projects, I have two reasons.
+
+1. I am still developing and improving these projects.
+	
+2. I live in a not-so-good environment and am always harmed by the bad people around me, even though I have reported them to the authorities and the police in Nha Be district, Ho Chi Minh City, where I have lived for the past 10 years. But the bad/evil wins with the assistance of the police and the authorities in Nha Be district, neglecting my safety and health. I am accused of slandering state officials. When the authorities slander me as lying and harming those who harm me, I don't see any reason to contribute to Vietnam. What I do will belong to these people and their descendants.
+	
+	 It's not worth it!
+	
+When I complete most of my projects, I will upload them under my name Vo Song Toan, but not for Vietnam, because I am harmed in this country. When I earn enough sponsorship money, I will leave Vietnam. I was born and raised in Vietnam, but my entire life of 32 years, from birth to now, has never been happy, always being harmed.
+
+If you see me posting about Vietnam on LinkedIn.com, it's because I have some positive thoughts about Vietnam. But I don't want to spend the rest of my life being harmed. I have to leave Vietnam. Because I don't have human rights, and basic rights, including the right to request protection from the Vietnamese government and laws as a Vietnamese citizen.
+
+
+
+
+
 # AIs x Intelligent Human
 
 
