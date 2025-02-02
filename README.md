@@ -1,3 +1,14 @@
+# Văn Minh - Giàu - Đã Phát Triển
+
+Những kẻ biến chất trong và ngoài chính phủ, nhà nước Việt Nam dùng tiền, máu mủ, và quen biết gần xa thao túng chính quyền từ bắc xuống. Muốn sống trong xã hội văn minh, nhìn chính mình và tự hỏi có văn minh không? Muốn sống trong nước giàu, nhìn chính mình và tự hỏi có giàu không? Muốn sống trong nước đã phát triển, nhìn chính mình và tự hỏi có trí và trí thức để tự lực, tự chủ, tự cường không?
+
+# Civilized - Wealthy - Developed
+
+Corrupt individuals inside and outside the government and state of Vietnam use money, blood ties, and connections near and far to manipulate the authorities from the north down. If you want to live in a civilized society, look at yourself and ask if you are civilized. If you want to live in a wealthy country, look at yourself and ask if you are wealthy. If you want to live in a developed country, look at yourself and ask if you have the intelligence and knowledge to be self-reliant, self-sufficient, and resilient.
+
+
+
+
 # My Life in Vietnam: Struggles, Survival, and Seeking Justice
 
 
