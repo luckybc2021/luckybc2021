@@ -1,3 +1,8 @@
+# WZP & Sponsorship
+
+For more than 10 years, these individuals have wreaked havoc on my health and mental well-being. I sought assistance from the Vietnamese government, but my pleas went unheard. The cycle continues unabated. If you live in wealthy and developed countries, cherish and protect them. Do not undermine them as others have done to me. My only hope is my open-source project, WZP. I must complete it and secure sponsorship to leave Vietnam. There's no fair game for me here. The same individuals who destroyed my life send their children to your rich and developed countries to study, obtain high-paying jobs, and secure green cards.
+
+
 # Văn Minh - Giàu - Đã Phát Triển
 
 Những kẻ biến chất trong và ngoài chính phủ, nhà nước Việt Nam dùng tiền, máu mủ, và quen biết gần xa thao túng chính quyền từ bắc xuống. Muốn sống trong xã hội văn minh, nhìn chính mình và tự hỏi có văn minh không? Muốn sống trong nước giàu, nhìn chính mình và tự hỏi có giàu không? Muốn sống trong nước đã phát triển, nhìn chính mình và tự hỏi có trí và trí thức để tự lực, tự chủ, tự cường không?
