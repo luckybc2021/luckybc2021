@@ -1,3 +1,37 @@
+# Tariffs & Contributions
+I am a Vietnamese citizen observing the dynamics between Vietnam and the USA. Let me clarify a few things:
+
+1. Vietnamese people are restricted from accessing STEM books, components, and related materials.  
+2. You accuse Vietnam of wrongdoing against the USA—seriously?  
+3. The USA has funded and supported terrorist activities in Vietnam since the Vietnam War. You also fueled the Golden Triangle drug trade in ASEAN, which caused the deaths of millions of Vietnamese. This includes terrorist attacks in Ho Chi Minh City in 2018 and Dak Lak in 2023.  
+4. You claim Vietnam benefits from the USA? Really? Vietnam provides assembly workers for goods like clothes, shoes, iPods, or Samsung devices, but most of the technology comes from South Korea and Japan. The USA uses Chinese electronic components to assemble iPods in Vietnam. Vietnamese people have not stolen anything from your country.  
+5. Vietnam imposes import taxes on U.S. goods, ranging from 10% to 20%.  
+6. Are U.S. companies ethical? My people work as underpaid laborers, earning less than $300 per month, yet you claim Vietnam is getting rich.  
+7. You say Americans work hard while Vietnamese people are lazy? Sure.
+
+
+Here's a compiled list of Vietnamese contributors in STEM and technology, including those who lived outside Vietnam before and after 1975:
+
+Computer Science & Engineering:
+- Bùi Tường Phong – Pioneer in computer graphics, developed Phong shading for realistic 3D rendering.
+- Nguyễn Anh Quỳnh – Creator of Unicorn Engine, used in cybersecurity and reverse engineering.
+- Duy Nguyễn – Researcher in artificial intelligence and machine learning.
+- Vietnamese Open-Source Developers – Contributions to software frameworks, cybersecurity, and data science.
+
+Physics & Mathematics:
+- Trịnh Xuân Thuận – Astrophysicist, known for research on galaxies and cosmic evolution.
+- Lê Văn Thiêm – Mathematician, contributed to functional analysis and algebraic geometry.
+
+Biotechnology & Medicine:
+- Trương Thành Tùng – Pharmaceutical scientist, specializes in drug discovery.
+- Vietnamese Biomedical Researchers – Advancements in stem cell research and medical technology.
+
+Graphic Arts & Digital Design:
+- Caricatures in Saigon Newspapers – Artists like Đức Khánh, Văn Hiếu, and Diệp Định shaped political satire through graphic illustrations.
+- Vietnamese Graphic Designers & Game Artists – Worked in animation, digital media, and video game design.
+
+This list highlights how Vietnamese creators have contributed globally to science, technology, engineering, and mathematics.
+
 # WZP & Sponsorship
 
 For more than 10 years, these individuals have wreaked havoc on my health and mental well-being. I sought assistance from the Vietnamese government, but my pleas went unheard. The cycle continues unabated. If you live in wealthy and developed countries, cherish and protect them. Do not undermine them as others have done to me. My only hope is my open-source project, WZP. I must complete it and secure sponsorship to leave Vietnam. There's no fair game for me here. The same individuals who destroyed my life send their children to your rich and developed countries to study, obtain high-paying jobs, and secure green cards.
