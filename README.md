@@ -1,3 +1,22 @@
+# Being USA Ally or Nothing
+
+As a Vietnamese, I firmly believe that if Vietnam fails to negotiate better trade deals with the U.S. to reduce tariffs to zero, it will have a major impact on our economy. A $130 billion loss is enormous for us, but let’s put things into perspective—a toy manufactured in Vietnam for just $1.40 is sold in the U.S. for $48. Who is truly benefiting here? While we are accused of taking advantage, it is clear that Vietnam’s labor and resources fuel industries that generate massive profits abroad.
+
+Right now, Vietnamese companies are preparing for the worst-case scenario if we fail to secure better terms with the U.S. The reality is that most Vietnamese exports to the U.S. are goods that American manufacturers cannot produce domestically. U.S. companies choose Vietnam’s products because of affordable prices and superior quality, despite other countries enjoying lower tariffs.
+If Vietnam loses access to the U.S. market, we will adapt. New customers worldwide already recognize the high quality and competitive pricing of Vietnamese goods. 
+
+Leaders from the Middle East and the European Union (EU) are increasingly turning to Vietnam—not the U.S.—for trade and investment opportunities. The global market is shifting, and Vietnam is prepared to embrace new economic partnerships.
+
+
+Right now, we Vietnamese understand what the U.S. wants from Vietnam:
+- For Vietnam to become a U.S. ally against China, Russia, and other nations.
+- For all U.S. companies, including Intel, Nike, Nvidia, and Apple, to relocate their operations from Vietnam back to the U.S.
+- For Vietnamese companies to invest more in the U.S. and hire American workers.
+
+The most critical demand is for Vietnam to become a U.S. ally. If you’re unaware, let me explain: Vietnam’s strategic position in Southeast Asia, including the South China Sea (which we Vietnamese call "Biển Đông"), makes it a key player in regional geopolitics. Historically, the last five U.S. presidents tried to pressure Vietnam during the Vietnam War to act as a frontline against the USSR (Xô Viết) and the rise of China. However, they failed to achieve their goals, as Vietnam resisted and maintained its independence.
+Now, President Donald Trump aims to revive this strategy, seeking to position Vietnam as a frontline protector of U.S. interests in the region. The question remains whether Vietnam will align with any major power or continue to forge its own path.
+
+
 # Tariffs & Contributions
 I am a Vietnamese citizen observing the dynamics between Vietnam and the USA. Let me clarify a few things:
 
