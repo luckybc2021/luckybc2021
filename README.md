@@ -1,3 +1,27 @@
+# USA Market of 130B vs New Markets 
+
+First, most U.S. companies have not yet made significant moves to exit China.
+
+Second, there is a push for U.S. companies to exit other countries, including Vietnam.
+
+Third, the focus is on making all goods in the U.S. and having the rest of the world import from the U.S.
+
+Fourth, the U.S. administration has turned its attention to China, sending a clear message to the world, including Vietnam: 'If you do business with China, prepare for 125% tariffs. You have 90 days to pause and negotiate better deals for the U.S.'
+
+This situation is now unfolding for Vietnam. The Vietnamese government and companies have prepared for the worst-case scenario, where all efforts to secure better trade terms might amount to nothing. As a result, Vietnam is actively seeking new markets. The $130 billion trade value with the U.S. may no longer hold the same significance, even with new agreements involving Boeing, Microsoft, Tesla, and others.
+
+Recently, the Vietnamese government released updates following meetings with President Donald Trump’s team and U.S. companies. They stated that the trade gap between Vietnam and the U.S. has improved, and the situation is better than before. However, as a Vietnamese citizen, I want to remind the U.S.: do not play dirty with Vietnam.
+
+
+You may not realize that Vietnam’s economic model is now being adopted worldwide, including in the UK, EU, North Korea, Africa, South America, and even some U.S. states. Vietnamese people are prepared to drop the $130 billion trade value and find ways to protect over 10 million workers by strengthening our local market of 100 million people.
+
+Let me also tell you this: more than half of U.S. companies are ready to leave the U.S. permanently. As a Vietnamese citizen from Ho Chi Minh City (Saigon), I acknowledge that $130 billion is significant to us, and the U.S. remains an important market. But remember, no country will forget the actions the U.S. has taken.
+Japan’s recent sale of $1,700 billion in U.S. debt is a warning to all. 
+
+Do not underestimate the resolve of the 8 billion people in this world.
+
+
+
 # Being USA Ally or Nothing
 
 As a Vietnamese, I firmly believe that if Vietnam fails to negotiate better trade deals with the U.S. to reduce tariffs to zero, it will have a major impact on our economy. A $130 billion loss is enormous for us, but let’s put things into perspective—a toy manufactured in Vietnam for just $1.40 is sold in the U.S. for $48. Who is truly benefiting here? While we are accused of taking advantage, it is clear that Vietnam’s labor and resources fuel industries that generate massive profits abroad.
