@@ -1,14 +1,10 @@
-# 🌍 World Zero Project License (WZPL)
+# 🌍 **World Zero Project (WZP) - Powered by Innovation**  
 
-**Version 1.0 — Effective Date: August 2, 2025**  
-**Author:** _Toan Song Vo (Võ Song Toàn)_
+Welcome to the **World Zero Project**, an ecosystem built to redefine scripting, UI, and performance-driven frameworks.  
 
-## 📌 About WZPL
-The **World Zero Project License (WZPL)** is a custom license designed to protect my work and enforce ethical usage restrictions. It defines strict rules on who can access and use projects under **World Zero Project**.
+## 🔒 **Licensing & Ownership**  
+All projects under **World Zero Project** are **licensed under WZPL**.  
+**Strict usage restrictions apply**—refer to the official [WZPL LICENSE](https://github.com/worldzeroproject/WZPL/blob/main/LICENSE.md).  
 
-## 🚀 Purpose
-- Ensures transparency and ownership of my work.
-- Restricts usage **within Vietnam** due to personal circumstances.
-- Sets clear guidelines for future development and project distribution.
-
-📢 **Read the full license here:** [View WZPL License](https://github.com/worldzeroproject/WZPL/blob/main/LICENSE.md)
+### 📌 **Author & Maintainer**  
+🛠 **Toan Song Vo (Võ Song Toàn)** — Creator of WZP, driving innovation and security forward.  
